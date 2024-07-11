@@ -23,6 +23,7 @@ public class Calc6 {
         System.out.printf("The Trapezoid is: %.3f\n", trapezoid);
         System.out.printf("The Square is: %.3f\n", square);
         System.out.printf("The Rectangle is: %.3f\n", rectangle);
+        System.out.print("You find u results");
 
     }
 }
